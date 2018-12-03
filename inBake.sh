@@ -1,3 +1,5 @@
+Read this https://www.nsnam.org/wiki/Installation#Installation 
+
 hg clone http://code.nsnam.org/bake
  export BAKE_HOME=`pwd`/bake 
  export PATH=$PATH:$BAKE_HOME
