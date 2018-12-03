@@ -1,0 +1,3 @@
+For Ubuntu 18.04, python-pygoocanvas is no longer provided,so we should install ns-3 on Ubuntu16.04,and  also has list of packages 
+to be installed. If we do this operation by manaul,it takes a lot of time.As result,I create in.sh file ,and put all those 
+configuration in it with sudo apt install -y.
